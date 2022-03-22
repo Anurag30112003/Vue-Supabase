@@ -1,4 +1,4 @@
-# Template Vue Supabase Tailwind
+# workout_tracker
 
 ## Project setup
 ```
