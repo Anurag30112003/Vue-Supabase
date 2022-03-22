@@ -4,7 +4,7 @@
       class="container py-5 px-4 flex flex-col gap-4 items-center sm:flex-row">
       <div class="flex items-center gap-x-4">
         <router-link class="cursor-pointer" :to="{ name: 'Home' }">
-          <img class="w-14" src="../assets/images/logo.png" alt="" />
+          <!-- <img class="w-14" src="../assets/images/logo.png" alt="" /> -->
           <h1 class="text-lg">Vue Supabase</h1>
         </router-link>
       </div>
