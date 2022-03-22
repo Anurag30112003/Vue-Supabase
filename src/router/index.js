@@ -21,9 +21,9 @@ const routes = [
     component: Register,
   },
   {
-    path:'Success',
+    path:'/success',
     name:'Success',
-    component:Success,
+    component: Success,
   },
 ];
 
